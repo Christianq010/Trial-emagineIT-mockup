@@ -14,5 +14,8 @@
     "url": "git+https://github.com/Christianq010/Trial-emagineIT-mockup.git"
   },
   "author": "Christiaan Quyn",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
