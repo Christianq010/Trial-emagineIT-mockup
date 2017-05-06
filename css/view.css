@@ -87,7 +87,10 @@ textarea {
 
 .header-welcome-msg {
   display: inline;
-  margin: 1em 0 0 50em; }
+  margin: -1.5em 25em 0em 40em; }
+
+.notification-icon {
+  display: none; }
 
 /* ==========================================================================
    Helper classes
